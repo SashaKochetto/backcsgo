@@ -13,6 +13,8 @@ body{
 	margin: auto;
 }
 
+h1, a, p{ font-family: arial }
+
 .fl { display: flex; }
 .fl-col { flex-direction: column; }
 .fl-row {flex-direction: row}
