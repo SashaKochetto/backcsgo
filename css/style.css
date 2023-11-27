@@ -13,7 +13,7 @@ body{
 	margin: auto;
 }
 
-h1, a, p{ font-family: arial }
+h1, a, p, i{ font-family: arial }
 
 .fl { display: flex; }
 .fl-col { flex-direction: column; }
